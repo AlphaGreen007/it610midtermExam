@@ -1,5 +1,5 @@
 # it610midtermExam
-IT610 Midterm Exam Repository for Thomas H.
+IT610 Midterm Exam Repository for Thomas Hayes
 
 Welcome to Thomas' userguide for the it610 Midterm Exam!
 
